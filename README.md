@@ -1,5 +1,6 @@
 ---
-description: asdfasdfasdfsaasdfsdaasdfsdffaassddfasasdfdfasdfdfasdfasdfasdfaasdfasdfsdfasdf
+description: >-
+  asdfasdfasdfsaasdasdffsdaasdfsdffaassddfasasdfdfasdfdfasdfasdfasdfaasdfasdfsdfasdf
 ---
 
 # README
